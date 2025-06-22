@@ -1,6 +1,6 @@
 # Lost of pranks to play on your friends!
 ## Important note:
-> ***Legal Policy:*** If you get scarred,feel unsafe,or feel queazy,or you install a virus, or your friend blames you for breaking their computer,none of that stuff is my fault.I provide 70 open source projects and 4 services.I did not create the demand.If you use it,then you did.I am warning you now.This is under no curcumstances a project that you can just casually download and open.This is scary stuff.***NONE OF THE STUFF THAT MAY HAPPEN IS MY FAULT!!*** Rules written by the Darrkon Network™
+> ***Legal Policy:*** If you get scarred from a redirect,feel unsafe,or feel queazy,or you install a virus, or your friend blames you for breaking their computer,none of that stuff is my fault.I provide 70 open source projects and 4 services.I did not create the demand.If you use it,then you did.I am warning you now.This is under no curcumstances a project that you can just casually download and open.This is scary stuff.***NONE OF THE STUFF THAT MAY HAPPEN IS MY FAULT!!*** Rules written by the Darrkon Network™
 
  ***THE WEIRD WEBSITE MATH PRANK***
 - DO NOT RUN THIS,This is meant as a prank for those dumb kids who use random open-source proxies.
