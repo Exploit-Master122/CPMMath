@@ -1,4 +1,5 @@
 # Lost of pranks to play on your friends!
+## WARNING,NOT ALL OF THESE ARE SAFE.UNDER NO CURCUMSTANCES ARE YOU ALLOWED TO BLAME ME 
 - # ***THE WEIRD WEBSITE MATH PRANK***
 - DO NOT RUN THIS,This is meant as a prank for those dumb kids who use random open-source proxies.
 - If you use this,you will be scarred for many months.
@@ -15,6 +16,7 @@ AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHAH
 
 - # 3 ***THE OPERA GX PRANK***
 - If you run this,your computer will be cooked.I'm serious.
-- Either,way,you will have to check the source code for the acess password.
+- Either,way,you will have to check the source code for the accsess password.
 - It'll download opera GX! Try it! Completey free and unblocked!
+- You may get redirected to a...site. =-| Beware! Please!
 - Try it! [Dwonload](https://github.com/Exploit-Master122/CPMMath/blob/main/verysafeoperagxdownload.html)
