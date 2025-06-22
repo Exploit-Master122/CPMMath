@@ -1,5 +1,6 @@
 # Lost of pranks to play on your friends!
-## WARNING,NOT ALL OF THESE ARE SAFE.UNDER NO CURCUMSTANCES ARE YOU ALLOWED TO BLAME ME 
+## Important note:
+> ***Legal Policy:*** If you get scarred,feel unsafe,or feel queazy,or you install a virus,none of that stuff is my fault.I am warning you now.This is under no curcumstances a project that you can just casually download and open.This is scary stuff.
 - # ***THE WEIRD WEBSITE MATH PRANK***
 - DO NOT RUN THIS,This is meant as a prank for those dumb kids who use random open-source proxies.
 - If you use this,you will be scarred for many months.
@@ -20,3 +21,5 @@ AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHAH
 - It'll download opera GX! Try it! Completey free and unblocked!
 - You may get redirected to a...site. =-| Beware! Please!
 - Try it! [Dwonload](https://github.com/Exploit-Master122/CPMMath/blob/main/verysafeoperagxdownload.html)
+- # Project Title
+
