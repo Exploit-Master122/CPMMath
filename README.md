@@ -1,6 +1,6 @@
 # Lost of pranks to play on your friends!
 <p> <dev>
-- 1.****THE WEIRD WEBSITE MATH PRANK****
+- 1.THE WEIRD WEBSITE MATH PRANK
 - DO NOT RUN THIS,This is meant as a prank for those dumb kids who use random open-source proxies.
 - If you use this,you will be scarred for many months.
 - Download the file here,IF YOU ARE 16 OR OLDER...and beware!
