@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>CPM Math Login</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(135deg, #0a0f2c, #360018);
+      color: #fff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+    }
+
+    .container {
+      background-color: rgba(10, 15, 44, 0.85);
+      border: 2px solid #8b0000;
+      border-radius: 12px;
+      padding: 40px;
+      box-shadow: 0 0 25px #8b0000;
+      text-align: center;
+      max-width: 400px;
+      width: 90%;
+    }
+
+    input[type="password"] {
+      padding: 10px;
+      width: 100%;
+      margin-top: 20px;
+      border-radius: 6px;
+      border: none;
+      background: #1e1e2f;
+      color: white;
+      font-size: 16px;
+    }
+
+    button {
+      margin-top: 20px;
+      padding: 10px 20px;
+      background-color: #8b0000;
+      border: none;
+      border-radius: 6px;
+      color: white;
+      font-size: 16px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: #b22222;
+    }
+
+    .error {
+      margin-top: 15px;
+      color: #ff4d4d;
+    }
+
+    .confirm-container {
+      margin-top: 20px;
+      display: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2>CPM Math Login</h2>
+    <input type="password" id="password" placeholder="Password" />
+    <button onclick="checkPassword()">Login</button>
+    <div class="error" id="errorMsg"></div>
+
+    <div class="confirm-container" id="confirmSection">
+      <p>I agree that I am 16 or older.</p>
+      <button onclick="proceed()">Continue to Link</button>
+    </div>
+  </div>
+
+  <script>
+    const correctPassword = "5084820933";
+
+    function checkPassword() {
+      const input = document.getElementById("password").value;
+      const errorMsg = document.getElementById("errorMsg");
+      const confirmSection = document.getElementById("confirmSection");
+
+      if (input === correctPassword) {
+        errorMsg.textContent = "";
+        confirmSection.style.display = "block";
+      } else {
+        errorMsg.textContent = "Incorrect password. Try again.";
+        confirmSection.style.display = "none";
+      }
+    }
+
+    function proceed() {
+      window.location.href = "<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>CPM Math Login</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(135deg, #0a0f2c, #360018);
+      color: #fff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+    }
+
+    .container {
+      background-color: rgba(10, 15, 44, 0.85);
+      border: 2px solid #8b0000;
+      border-radius: 12px;
+      padding: 40px;
+      box-shadow: 0 0 25px #8b0000;
+      text-align: center;
+      max-width: 400px;
+      width: 90%;
+    }
+
+    input[type="password"] {
+      padding: 10px;
+      width: 100%;
+      margin-top: 20px;
+      border-radius: 6px;
+      border: none;
+      background: #1e1e2f;
+      color: white;
+      font-size: 16px;
+    }
+
+    button {
+      margin-top: 20px;
+      padding: 10px 20px;
+      background-color: #8b0000;
+      border: none;
+      border-radius: 6px;
+      color: white;
+      font-size: 16px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: #b22222;
+    }
+
+    .error {
+      margin-top: 15px;
+      color: #ff4d4d;
+    }
+
+    .confirm-container {
+      margin-top: 20px;
+      display: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2>CPM Math Login</h2>
+    <input type="password" id="password" placeholder="Password" />
+    <button onclick="checkPassword()">Login</button>
+    <div class="error" id="errorMsg"></div>
+
+    <div class="confirm-container" id="confirmSection">
+      <p>I agree that I am around 13 to login.</p>
+      <button onclick="proceed()">Deploy Unblocker</button>
+    </div>
+  </div>
+
+  <script>
+    const correctPassword = "5084820933";
+
+    function checkPassword() {
+      const input = document.getElementById("password").value;
+      const errorMsg = document.getElementById("errorMsg");
+      const confirmSection = document.getElementById("confirmSection");
+
+      if (input === correctPassword) {
+        errorMsg.textContent = "";
+        confirmSection.style.display = "block";
+      } else {
+        errorMsg.textContent = "Incorrect password. Try again.";
+        confirmSection.style.display = "none";
+      }
+    }
+
+    function proceed() {
+      window.location.href = "https://4chan.org/";
+    }
+  </script>
+</body>
+</html>";
+    }
+  </script>
+</body>
+</html>
